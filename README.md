@@ -25,7 +25,7 @@ Software engineer, making amendments with the pop culture. Still getting used to
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)&nbsp;
 
  
 
@@ -33,7 +33,7 @@ Software engineer, making amendments with the pop culture. Still getting used to
 ### Libraries & Framework :
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)&nbsp;
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white)&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
 
 
